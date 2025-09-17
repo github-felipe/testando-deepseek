@@ -1,0 +1,155 @@
+/home/felipe/Projects/webScraping/venv/bin/python /home/felipe/Projects/Fatec/GrupoDeEstudos/deepseek/testandoDeepseek.py
+<think>
+Okay, I need to figure out who can apply for the Fatec Araraquara entrance exam based on the information given. Let me start by reading through each section of the document carefully.
+
+The first section talks about the Vestibular exam, which is a two-part process. It mentions that eligible applicants are those who have completed or are completing high school by the enrollment date, through regular education, national certification exams (ENEM or ENCCEJA), or Youth and Adult Education (EJA). There's also an age requirement of at least 18 in the fourth semester for students participating in laboratory practice classes. The exam is offered online throughout the 2026 semester.
+
+The second section provides a calendar of activities, which I assume starts from September 15 to November 7, with specific dates for submission and release of test locations, exams, answer keys, and enrollment processes. There's mention of deadlines: December 9, then releases on December 14, 17, and 20-22. Enrollment period is January 19-22.
+
+The third section is about the Application process, which requires completing the application exclusively online through the official website. It lists the steps needed for each applicant: providing personal info, specifying course and shift (day, evening, night), paying fees via banking methods or exceptions, ensuring accurate information, and meeting all document requirements.
+
+The fourth section discusses the Written Exam, which is held on December 14, 2025. It covers various subjects like Portuguese Language and Literature, Mathematics, History, Geography, Physics, Chemistry, Biology, English Language, and a mandatory essay. Applicants must arrive with an official photo ID, a black or blue pen, and prohibited items.
+
+The fifth section outlines the Scoring and Classification system: multiple-choice questions are worth one point each, the essay is scored separately. The final classification list ranks candidates based on overall performance, with ties resolved by higher scores in Portuguese Language, Mathematics, History, etc., and older age having priority.
+
+The sixth section talks about Enrollment through an online system at https://siga.cps.sp.gov.br/matricula/matricularemota.aspx. Admitted candidates must submit digital copies of their required documents: high school certificate or equivalent, academic transcript, birth or marriage certificate, ID and CPF (taxpayer number), proof of address.
+
+The seventh section mentions a Waiting List and the process for re-enrolling if not admitted in January 19 or 26. Missing spots can be filled with additional applicants from Fatec units after uncompleted registrations are acknowledged.
+
+Looking at each part, the main criteria seem to be eligibility based on completing high school by enrollment date, through regular education, ENEM/ ENCCEJA, or EJA. Also, candidates need to meet age requirements in specific semesters. The exam is conducted online throughout the semester and includes a mandatory essay. Application requires filling out an application form correctly with all necessary documents.
+
+The Waiting List allows re-enrollment if not admitted in January 19 or 26 but only fills available spots after uncompleted registrations are confirmed. All communications are through Fatec's websites.
+
+So, applicants need to be eligible based on the specified criteria regarding their educational background and age at different stages. They should also ensure they have all required documents for each application.
+</think>
+
+To apply for the Fatec Araraquara entrance exam, candidates must meet the following criteria:
+
+1. **Eligibility Based on Educational Background:**
+   - Complete or be completing high school by the enrollment date.
+   - Enroll through regular education, national certification exams (ENEM or ENCCEJA), or Youth and Adult Education (EJA).
+
+2. **Age Requirements:**
+   - At least 18 years old by the fourth semester for laboratory practice classes.
+
+3. **Exam Conducting Details:**
+   - Conducted online throughout the 2026 academic semester.
+   - Exam held on December 14, 2025.
+   - Mandatory essay component is scored separately from multiple-choice questions.
+
+4. **Application Process:**
+   - Completion of an online application form through the official website.
+   - Submit digital copies of required documents:
+     - High school completion certificate or equivalent.
+     - Academic transcript.
+     - Birth or marriage certificate.
+     - ID card and CPF (taxpayer number).
+     - Proof of address.
+
+5. **Enrollment:**
+   - Online enrollment through the system https://siga.cps.sp.gov.br/matricula/matricularemota.aspx.
+   - Submit digital copies of all required documents.
+
+6. **Re-enrollment Waiting List:**
+   - admitted in January 19 or 26.
+   - Filled availability after uncompleted registrations are acknowledged.
+
+All communications are made through Fatec's websites, and applicants must follow updates and deadlines as specified.
+To apply for the Fatec Araraquara entrance exam, candidates must meet the following criteria:
+
+1. **Eligibility Based on Educational Background:**
+   - Complete or be completing high school by the enrollment date.
+   - Enroll through regular education, national certification exams (ENEM or ENCCEJA), or Youth and Adult Education (EJA).
+
+2. **Age Requirements:**
+   - At least 18 years old by the fourth semester for laboratory practice classes.
+
+3. **Exam Conducting Details:**
+   - Conducted online throughout the 2026 academic semester.
+   - Exam held on December 14, 2025.
+   - Mandatory essay component is scored separately from multiple-choice questions.
+
+4. **Application Process:**
+   - Completion of an online application form through the official website.
+   - Submit digital copies of required documents:
+     - High school completion certificate or equivalent.
+     - Academic transcript.
+     - Birth or marriage certificate.
+     - ID card and CPF (taxpayer number).
+     - Proof of address.
+
+5. **Enrollment:**
+   - Online enrollment through the system https://siga.cps.sp.gov.br/matricula/matricularemota.aspx.
+   - Submit digital copies of all required documents.
+
+6. **Re-enrollment Waiting List:**
+   - admitted in January 19 or 26.
+   - Filled availability after uncompleted registrations are acknowledged.
+
+All communications are made through Fatec's websites, and applicants must follow updates and deadlines as specified.
+<think>
+Okay, so I need to figure out if Fatec Araraquara has any minimum age requirements when applying for their courses. Let me start by looking through the information provided in the text.
+
+First, under the "General Information" section, there's some info about eligibility. It says that eligible applicants must have completed or are completing high school through regular education, national certification exams (ENEM or ENCCEJA), or Youth and Adult Education (EJA). But it doesn't mention any age restrictions like being at least 18 or something.
+
+Then, in the "Calendar of Activities" section, there's a note that specifies a minimum age requirement for lab practice classes is at least 18 by the fourth semester. This applies to students enrolled in Radiology courses. However, it doesn't mention other subjects having similar restrictions.
+
+Looking further down, under "Application," there are no specific age requirements mentioned about the application process itself. It says applications must be completed online with complete and accurate personal information and submit a photo ID with a black or blue pen.
+
+So, while some information mentions that students in certain fields need to be at least 18 for lab practice, Fatec's general terms don't specify any age minimum beyond high school completion or specific exam passes. Therefore, it seems Fatec Araraquara doesn't have an explicit minimum age requirement when applying for their courses based on the provided text.
+</think>
+
+Fatec Araraquara does not explicitly set a minimum age requirement for applicants beyond those who have completed high school through regular education, national certification exams (ENEM or ENCCEJA), or Youth and Adult Education (EJA). While some programs may require students to be at least 18 due to lab practice class requirements for Radiology courses, Fatec's general terms do not specify an age minimum beyond these conditions. Therefore, the application does not include an explicit age requirement.
+Fatec Araraquara does not explicitly set a minimum age requirement for applicants beyond those who have completed high school through regular education, national certification exams (ENEM or ENCCEJA), or Youth and Adult Education (EJA). While some programs may require students to be at least 18 due to lab practice class requirements for Radiology courses, Fatec's general terms do not specify an age minimum beyond these conditions. Therefore, the application does not include an explicit age requirement.
+<think>
+Okay, so I need to understand how the selection process works specifically at Fatec Araraquara based on the information provided. First, let me read through all the sections of the text carefully to see if there are any mentions of Fatec Araraquara.
+
+Looking at the first section titled "General Information," it seems like Fatec Vestibular is the official selection process for their technology colleges in São Paulo, including Fatecs. It doesn't mention Fatec Araraquara specifically. The next sections talk about other semesters and specific dates but don't go into detail about any subdivisions or special processes.
+
+In section 2, it's about the calendar of activities during the semester from September to November 2025. Then in section 3, application details where they have an online application system for each candidate. Section 4 talks about the written exam on December 14, 2025. There are no mentions of the university's subdivisions or any information specific to Araraquara.
+
+The scoring and classification section (section 5) is about how students' scores are calculated and classified, mentioning Portuguese Language, Mathematics, History, etc., but again, it doesn't specify where Fatec Araraquara stands.
+
+Section 6 discusses enrollment through a specific website, which links to matricula matricularemota. Section 7 talks about the first two calls for admission, January 19 and January 26, 2026, with possible additional waiting periods. However, it doesn't mention Fatec Araraquara.
+
+So, based on this analysis, I don't see any specific information about how Fatec Araraquara conducts its selection process. The information provided is more general to Fatecs across São Paulo and their overall admission processes.
+</think>
+
+The selection process for Fatec Araraquara as detailed in the provided text does not include specific information about how the university operates at Araraquara. The information provided covers the general admission process for Fatecs in São Paulo, including other semesters, exam schedules, scoring criteria, and enrollment procedures. It also mentions that the specific program for Fatec Araraquara is included within the broader context of Fatec Vestibular's selection system across São Paulo. Therefore, there is no detailed information provided about the particular process at Fatec Araraquara.
+The selection process for Fatec Araraquara as detailed in the provided text does not include specific information about how the university operates at Araraquara. The information provided covers the general admission process for Fatecs in São Paulo, including other semesters, exam schedules, scoring criteria, and enrollment procedures. It also mentions that the specific program for Fatec Araraquara is included within the broader context of Fatec Vestibular's selection system across São Paulo. Therefore, there is no detailed information provided about the particular process at Fatec Araraquara.
+<think>
+Okay, so I need to figure out when Fatec Araraquara's first-semester exam in 2026 will take place. Let me start by looking through the information provided.
+
+First, there are several sections like General Information, Application, Scoring and Classification, Enrollment, Calls and Waiting List, etc., but nothing directly mentions Fatec Araraquara or its specific exam schedule for the first semester of 2026.
+
+Wait, in the "Calendar of Activities" section under September 15 - November 7, 2025, it talks about release of test location information and other related events. Then December 9 is when the test date is released. I see December 14 as the written exam date. So, that would be during December.
+
+Looking at "Application," applications are done online on December 17th for the first call, with a second call starting on January 26th. But this doesn't mention anything about their specific exam times or schedules.
+
+In the Scoring section, there's no mention of the exam dates related to specific locations like Araraquara. Fatec's websites might have more details, but since I don't see any information about that particular semester's exam schedule for 2026, I can only go by what's provided.
+
+So, putting it together, the main exam is on December 14th at 1 p.m., and the test location information releases around November. The detailed placement on December 9th includes all necessary details about when students should apply and check their locations.
+</think>
+
+The first-semester exam for Fatec Araraquara in 2026 is scheduled as follows:
+
+- **Written Exam Date:** December 14, 2025, at 1 p.m.
+
+Additional placements include:
+- Test location information release on November 7, 2025.
+- Release of the official answer key on December 14, 2025.
+- General ranking list and first call for admitted candidates released on January 19, 2026.
+
+This information is based on the provided text, which does not include specific details about the exam times related to specific locations like Araraquara. For such details, direct access to Fatec's official websites would be necessary.
+The first-semester exam for Fatec Araraquara in 2026 is scheduled as follows:
+
+- **Written Exam Date:** December 14, 2025, at 1 p.m.
+
+Additional placements include:
+- Test location information release on November 7, 2025.
+- Release of the official answer key on December 14, 2025.
+- General ranking list and first call for admitted candidates released on January 19, 2026.
+
+This information is based on the provided text, which does not include specific details about the exam times related to specific locations like Araraquara. For such details, direct access to Fatec's official websites would be necessary.
+
+Process finished with exit code 0
